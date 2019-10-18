@@ -282,7 +282,7 @@ summary(csv123)
 All of the tables are merged as a list 
 
 
-References
+## References
 1. Text Mining With R
 https://www.tidytextmining.com/
 
@@ -291,3 +291,6 @@ https://www.rdocumentation.org/packages/tm/versions/0.7-6/topics/Corpus
 
 3.KableExtra
 https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html#overview
+
+4.R Reduce Applys
+https://blog.zhaw.ch/datascience/r-reduce-applys-lesser-known-brother/
